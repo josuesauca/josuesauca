@@ -34,8 +34,6 @@
 ![CentOS](https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Issabel](https://img.shields.io/badge/issabel-662D91?style=for-the-badge&logo=linux&logoColor=white)
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/josuesauca/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/josue-alejandro-sauca-pucha-965b73282) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@josue.sauca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@josuesauca5805) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@josuealejandrosaucapucha5054) 
 # 📊 GitHub Stats:
