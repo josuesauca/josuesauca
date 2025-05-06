@@ -22,6 +22,18 @@
 ![Mysql](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23316192.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23316192.svg?style=for-the-badge&logo=nginx&logoColor=green)
+![Flask](https://img.shields.io/badge/flask-%23013243.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![RedHat](https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Issabel](https://img.shields.io/badge/issabel-662D91?style=for-the-badge&logo=linux&logoColor=white)
+
 
 
 ## 🌐 Socials:
